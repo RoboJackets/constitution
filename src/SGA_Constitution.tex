@@ -11,7 +11,7 @@
 \newcommand{\preamble}[0]{\vskip 11pt \noindent \textbf{\underline{Preamble}}\newline}
 \newcounter{articlect}
 \newcounter{sectionct}[articlect]
-\newcommand{\carticle}[1]{\stepcounter{articlect} \vskip 11pt \noindent \textbf{\underline{Article \Roman{articlect} - #1}}\par}
+\newcommand{\carticle}[1]{\stepcounter{articlect} \vskip 11pt \noindent \textbf{\underline{\smash{Article \Roman{articlect} - #1}}}\par}
 \newcommand{\csection}[0]{\stepcounter{sectionct} \noindent \textbf{Section \arabic{sectionct}. }}
 \newcommand{\csectionskip}[0]{\vskip 11pt}
 

@@ -1,0 +1,3 @@
+[submodule "git-latexdiff"]
+	path = git-latexdiff
+	url = https://gitlab.com/git-latexdiff/git-latexdiff.git
