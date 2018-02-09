@@ -12,23 +12,28 @@ Use you favorite editor to modify the relevant file in the src/ directory.
 
 ## Building
 To compile the constitution run:
+
 `make pdf`
 
 To compile a diff of the current tree to a previous ref, run:
+
 `make diff <git ref>`
 
 The ref has a default value of HEAD^ if unprovided as an argument.
 
 ## Viewing
 To view the document, run:
+
 `make view`
 
 To view the diff, run:
+
 `make view-diff <git ref>`
 
 
 ## Publishing
 To publish to the repo as PDF and GH Markdown, run:
+
 `make pub`
 
 ## Tagging
