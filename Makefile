@@ -38,6 +38,9 @@ SGA_Constitution.diff.pdf: SGA_Constitution.diff.dvi
 SGA_Constitution.diff.dvi: SGA_Constitution.diff
 	$(TEX) build/SGA_Constitution.diff.tex
 
+pub: pdf
+	./publish.sh
+
 clean:
 	$(CLEAN)
 	
