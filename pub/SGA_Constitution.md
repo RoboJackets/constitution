@@ -65,21 +65,29 @@ The officers of the RoboJackets shall have the power to create or destroy positi
 
 1.  All organization members must be notified at least one (1) week in advance of the start of acceptance of nominations for a new officer.
 
-2.  Nominations will be made in a club­ wide advertised meeting.
+2.  Elections will be held no later than one month before the start of finals.
 
-3.  Nominated candidates will give a short presentation detailing why they wish to hold the position in question, why they are qualified for the position, and how they would fulfill the requirements of the position.
+3.  Nominations will be made in a club­ wide advertised meeting.
 
-4.  The candidates will leave the room for private discussion by the present club members. The highest ­ranking officer will organize the private discussions by recognizing those members who wish to be heard.
+4.  Nominated candidates will give a short presentation detailing why they wish to hold the position in question, why they are qualified for the position, and how they would fulfill the requirements of the position.
 
-5.  After a motion to vote is called and seconded, the present members will each cast one vote for the position being voted on.
+5.  The candidates will leave the room for private discussion by the present club members. The highest ­ranking officer will organize the private discussions by recognizing those members who wish to be heard.
 
-6.  The candidate receiving the most votes will be elected to the officer position. In the case of a tie vote, the highest­ ranking officer present will cast the deciding vote.
+6.  After a motion to vote is called and seconded, the present members will each cast one vote for the position being voted on.
+
+7.  The candidate receiving a plurality votes will be elected to the officer position. In the case of a tie vote, the highest­ ranking officer present will cast the deciding vote.
 
 ****
 
 1.  If an officer fails to maintain Institute requirements as stated in the GT Catalog and Article 4 Section 1, he or she shall resign immediately.
 
 2.  An officer can be removed from office by vote of the full membership of the club or executive board.
+
+3.  The meeting for the removal of an officer must be announced no less than one week in advance.
+
+4.  The officer pending removal will be allowed to speak to defend his or her actions.
+
+5.  The remaining leadership must make a good faith effort to contact the officer and schedule the meeting so that they can attend if desired.
 
 ****
 
@@ -93,7 +101,7 @@ Committees may be created as necessary by the President for specific events and 
 
 ****
 
-1.  A full­time GT faculty or staff member will serve as Advisor to the organization.
+1.  A full­time salaried GT faculty or staff member will serve as Advisor to the organization.
 
 2.  Nominations for Advisor will take place within the Executive Board. An Advisor will be chosen within two weeks of a vacancy. The Executive Board will choose the Advisor by a majority vote and invite him/her to serve as Advisor for the next academic year.
 
@@ -103,7 +111,7 @@ Committees may be created as necessary by the President for specific events and 
 
 5.  The Advisor can be removed for not carrying out the duties and expectations as defined in this document. Any member can bring concerns to the Executive Board. The Executive Board will meet with the Advisor to discuss the concerns. After this meeting, the Executive Board will vote on whether to remove the Advisor. If there is a majority vote, then the Advisor will be removed.
 
-6.  If an Advisor steps down, is removed, or is not re­appointed, the Executive Board will follow the process stated in Article VIII, B. This is a typical process, however organizations are free to develop their own process. Organizations must state the procedures for selecting, removing, and the length of term for Advisors.
+6.  If an Advisor steps down, is removed, or is not re­appointed, the Executive Board will follow the process stated in Article VIII, B.
 
 ****
 
