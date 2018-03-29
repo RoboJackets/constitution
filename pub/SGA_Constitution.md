@@ -75,7 +75,7 @@ The officers of the RoboJackets shall have the power to create or destroy positi
 
 6.  After a motion to vote is called and seconded, the present members will each cast one vote for the position being voted on.
 
-7.  The candidate receiving a plurality votes will be elected to the officer position. In the case of a tie vote, the highest­ ranking officer present will cast the deciding vote.
+7.  The candidate receiving a plurality of votes will be elected to the officer position. In the case of a tie vote, the highest­ ranking officer present will cast the deciding vote.
 
 ****
 
