@@ -4,7 +4,7 @@ DVI2PDF = dvipdf
 OPEN = evince
 CLEAN = rm -rf build
 
-GIT_COMMIT_REF="HEAD^"
+GIT_COMMIT_REF="master"
 
 .PHONY: all
 

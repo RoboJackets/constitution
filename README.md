@@ -18,9 +18,9 @@ To compile the constitution run:
 
 To compile a diff of the current tree to a previous ref, run:
 
-`make diff <git ref>`
+`make diff GIT_COMMIT_REF=<git ref>`
 
-The ref has a default value of HEAD^ if unprovided as an argument.
+The ref has a default value of master if unprovided as an argument.
 
 ## Viewing
 To view the document, run:
@@ -29,7 +29,7 @@ To view the document, run:
 
 To view the diff, run:
 
-`make view-diff <git ref>`
+`make view-diff GIT_COMMIT_REF=<git ref>`
 
 
 ## Publishing
