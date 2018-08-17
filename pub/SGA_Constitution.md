@@ -59,7 +59,7 @@ The officers of the RoboJackets shall have the power to create or destroy positi
 
 ****
 
-Officers will be selected whenever a position needs to be filled or a new position is created. Elections will be conducted as follows:
+Officers will be selected whenever a position needs to be filled or a new position is created. Officer candidates must meet the requirements established in Article IV, Section 1. Elections will be conducted as follows:
 
 1.  All organization members must be notified at least one (1) week in advance of the start of acceptance of nominations for a new officer.
 
@@ -75,17 +75,27 @@ Officers will be selected whenever a position needs to be filled or a new positi
 
 7.  The candidate receiving a plurality of votes will be elected to the officer position. In the case of a tie vote, the highest­ ranking officer present will cast the deciding vote.
 
+8.  New officers take office at the last meeting of the spring semester and remain in office until the next election.
+
+9.  If a position remains unfilled after the elections process, the President will appoint a member to the position or reassign duties to another officer.
+
 ****
 
 1.  If an officer fails to maintain Institute requirements as stated in the GT Catalog and Article 4 Section 1, he or she shall resign immediately.
 
 2.  An officer can be removed from office by vote of the full membership of the club or executive board.
 
-3.  The meeting for the removal of an officer must be announced no less than one week in advance.
+3.  The meeting for the removal of an officer is called for by a majority vote when quorum is present.
 
-4.  The officer pending removal will be allowed to speak to defend his or her actions.
+4.  The meeting for the removal of an officer must be announced no less than one week in advance.
 
-5.  The remaining leadership must make a good faith effort to contact the officer and schedule the meeting so that they can attend if desired.
+5.  The officer pending removal will be allowed to speak to defend his or her actions.
+
+6.  The remaining leadership must make a good faith effort to contact the officer and schedule the meeting so that they can attend if desired.
+
+7.  If an officer is removed, his or her removal is immediate. Upon removal, a special election will be held following the rules established for yearly elctions in Article V.
+
+8.  If the highest level officer(s) are removed, the next highest officer will assume interim responsbility until the special election is concluded.
 
 ****
 
@@ -119,6 +129,12 @@ Dues shall be collected by the President, Vice President, Treasurer, and Project
 
 All officer/business meetings shall be governed by the procedure contained in Robert’s Rules of Order.
 
+Robert’s Rules of Order will be used in instances not covered in this constitution.
+
 ****
 
-Written notification to all members must be made by mail or email, at least two (2) weeks in advance of any proposed change in the constitution. Amendments are subject to the approval by the Student Government and Student Activities Committee. The procedure for amending the constitution is as follows: The amendment will be read in a general meeting open to all club members. All club officers must be in attendance. Once the amendment is read to all members in attendance, an open discussion will ensue. The club president will moderate the discussion. Once all discussion is complete, the members in attendance will vote on whether to accept or deny the amendment. Acceptance of any amendment to the constitution will require vote of the entire club membership.
+Written notification to all members must be made by mail or email, at least two (2) weeks in advance of any proposed change in the constitution. Amendments are subject to the approval by the Student Government and Student Activities Committee. The procedure for amending the constitution is as follows: The amendment will be read in a general meeting open to all club members. All club officers must be in attendance. Once the amendment is read to all members in attendance, an open discussion will ensue. The club president will moderate the discussion. Once all discussion is complete, the members in attendance will vote on whether to accept or deny the amendment.
+
+Acceptance of any amendment to the constitution will require vote with quorum established. A quorum is established by greater than half of the voting membership.
+
+Amendments are subject to the approval of the Student Government Association and the Student Activities Committee.
