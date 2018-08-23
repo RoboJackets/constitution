@@ -93,7 +93,7 @@ Officers will be selected whenever a position needs to be filled or a new positi
 
 6.  The remaining leadership must make a good faith effort to contact the officer and schedule the meeting so that they can attend if desired.
 
-7.  If an officer is removed, his or her removal is immediate. Upon removal, a special election will be held following the rules established for yearly elctions in Article V.
+7.  If an officer is removed, his or her removal is immediate. Upon removal, a special election will be held following the rules established for yearly elections in Article V.
 
 8.  If the highest level officer(s) are removed, the next highest officer will assume interim responsbility until the special election is concluded.
 
