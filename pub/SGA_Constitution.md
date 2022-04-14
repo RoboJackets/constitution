@@ -1,7 +1,7 @@
 **Constitution for the RoboJackets at Georgia Tech**
 
 Created 1999  
-Revised 04/08/2021
+Revised 04/13/2022
 
 The RoboJackets competitive robotics club will be one that designs robots with the intent of taking part in various national and international competitions. The purpose of the club is to promote robotics in the Georgia Tech community and to help students learn valuable skills associated with building robots. As a byproduct of taking part in competitions, Georgia Tech will benefit by becoming more familiar to the people in the robotics community.
 
@@ -23,11 +23,9 @@ The purpose of the RoboJackets is to:
 
 2.  Active membership is defined as attending at least one (1) general meeting per semester and attending at least fifty (50) percent of the meetings of one (1) or more project teams.
 
-3.  An Associate Member, which may be a non-student, GT faculty, staff, or alumnus, must have their membership approved by of the officers.
+3.  A limit on the maximum number of members will not be set.
 
-4.  A limit on the maximum number of members will not be set.
-
-5.  Membership will take effect when an interested person pays dues for the semester.
+4.  Membership will take effect when an interested person pays dues for the semester.
 
 **Section .** According to the GT Catalog, students can only run for, and hold office if they are in good standing with the Institute (academically and non-academically). RoboJackets will further require Officers and officer candidates to be students that have been members of the organization for at least one (1) semester of active membership.
 
@@ -57,7 +55,7 @@ Officers will be selected whenever a position needs to be filled or a new positi
 
 3.  Nominations will be made in a club-wide advertised meeting or through an online nominations form.
 
-4.  Nominated candidates will give a short presentation detailing why they wish to hold the position in question, why they are qualified for the position, and how they would fulfill the requirements of the position.
+4.  Nominated candidates will give a short presentation detailing why they wish to hold the position in question, why they are qualified for the position, and how they would fulfill the requirements of the position. Any eligible member may campaign or be nominated for any officer position.
 
 5.  The candidates will leave the room for private discussion by the present club members. The highest ­ranking officer will organize the private discussions by recognizing those members who wish to be heard.
 
@@ -67,7 +65,7 @@ Officers will be selected whenever a position needs to be filled or a new positi
 
 8.  New officers take office at the last meeting of the spring semester and remain in office until the next election.
 
-9.  If a position remains unfilled after the elections process, the President will appoint a member to the position or reassign duties to another officer.
+9.  If a position remains unfilled after the elections process, the incoming President will appoint a member to the position or reassign duties to another officer.
 
 1.  If an officer fails to maintain Institute requirements as stated in the GT Catalog and Article 4 Section 1, they shall resign immediately.
 
@@ -83,7 +81,29 @@ Officers will be selected whenever a position needs to be filled or a new positi
 
 7.  If an officer is removed, their removal is immediate. Upon removal, a special election will be held following the rules established for yearly elections in Article V.
 
-8.  If the highest level officer(s) are removed, the next highest officer will assume interim responsbility until the special election is concluded.
+8.  If the highest level officer(s) are removed, the next highest officer will assume interim responsibility until the special election is concluded.
+
+1.  Membership of any kind, including specific privileges, can be revoked for failure to maintain membership requirements as stated in this Constitution. The Organization must strive to maintain the highest levels of objectivity in both setting membership requirements and in removing a Member.
+
+2.  If it is believed that a Member has failed to maintain membership requirements, then a petition requesting a membership review must be signed by at least half of the voting membership or Executive Board and presented at an Executive Board meeting. Then, upon verification of the validity of the petition, by the Advisor, and, at least two weeks but no more than four weeks from the date of submission, another meeting shall be held at which the grievance will be presented, with both sides having the opportunity to present a case.
+
+3.  The decision-making process for member removal must be explicitly outlined in the organization’s meeting minutes.
+
+4.  If the membership review reveals that the Member has not maintained the membership requirements, then the Executive Board will 1) place the Member on a probationary status and 2) outline the objective criteria, including a timeline no shorter than 2 business weeks (no greater than one academic semester), the Member must meet to remove the probationary status.
+
+    1.  The Executive Board and the member must agree on the probationary timeline.
+
+    2.  The timeline must allow feasibility for the infraction to be remedied.
+
+5.  If at least 2/3 of the Executive Board votes to place the Member under probationary status, they must publicize their decision to the organization via an electronic means and notify the Advisor.
+
+6.  If the Member requests privacy regarding the membership removal process, the Executive Board will not notify the organization of probationary status.
+
+7.  At the end of the probationary period, the Executive Board will meet with the Member to determine if the criteria to remove probationary status have been met. If 2/3 of the Executive Board votes that the criteria still have not been met, then the member shall be removed.
+
+8.  If the Member is removed, the Executive Board will provide written notification of the removal to the Member, the Organization, and the Advisor indicating the reason for removal and the timeline for application for new membership (if applicable).
+
+9.  If the Member is removed, they may appeal to the General Body of the organization within 2 business weeks. The appeal will be provided to the Executive Board and distributed to the general body by the Secretary. The appeal will follow the same procedures as listed in this article, and the General Body will act as the voting body.
 
 Committees may be created as necessary by the President for specific events and projects not to last longer than the current officer term.
 
@@ -95,7 +115,7 @@ Committees may be created as necessary by the President for specific events and 
 
 1.  A full-time salaried GT faculty or staff member will serve as Advisor to the organization.
 
-2.  Nominations for Advisor will take place within the Executive Board. An Advisor will be chosen within two weeks of a vacancy. The Executive Board will choose the Advisor by a majority vote and invite them to serve as Advisor for the next academic year.
+2.  Nominations for Advisor will take place within the Executive Board. An Advisor will be chosen within two weeks of a vacancy. The organization will notify the Center for Student Engagement of the new Advisor immediately upon installment. The Executive Board will choose the Advisor by a majority vote and invite them to serve as Advisor for the next academic year.
 
 3.  During officer elections, the organization will vote on whether to continue the Advisor appointment or not. The vote must be a majority of those voting in order to retain the Advisor for the next academic year.
 
@@ -103,13 +123,25 @@ Committees may be created as necessary by the President for specific events and 
 
 5.  The Advisor can be removed for not carrying out the duties and expectations as defined in this document. Any member can bring concerns to the Executive Board. The Executive Board will meet with the Advisor to discuss the concerns. After this meeting, the Executive Board will vote on whether to remove the Advisor. If there is a majority vote, then the Advisor will be removed.
 
-6.  If an Advisor steps down, is removed, or is not re-appointed, the Executive Board will follow the process stated in Article VIII Section B.
+6.  If an Advisor steps down, is removed, or is not re-appointed, the Executive Board will follow the process stated in Article IX Section B.
 
 Dues shall be collected by the President, Vice President, Treasurer, and Project Managers. Late dues will be accepted at the discretion of the aforementioned officers. The Treasurer will set the due date for each semester’s dues. The Treasurer may entitle delegates to collect dues if the demand requires it. Dues will be set according to our bylaws. Members over the summer semester must have paid for the previous or upcoming year.
 
 All officer/business meetings shall be governed by the procedure contained in Robert’s Rules of Order.
 
 Robert’s Rules of Order will be used in instances not covered in this constitution.
+
+Membership and all privileges, including voting and officer positions, must be extended to all students without regard to race, color, sex, sexual orientation, gender identity, gender expression, ethnicity or national origin, religion, age, genetic information, disability, or veteran status, unless exempt under Title IX.
+
+This organization is a Registered Student Organization (RSO) at Georgia Institute of Technology but is not a part of the Institute itself.
+
+1.  In all correspondence and publications, it may refer to itself as an organization at Georgia Institute of Technology, but not as a part of Georgia Tech itself.
+
+2.  RoboJackets accepts full financial and production responsibility for all activities it sponsors.
+
+3.  RoboJackets agrees to abide by all pertinent GT policies and regulations. Where GT policies and regulations and those of RSO differ, including those regulations and policies mandated by an external affiliated organization, the policies and regulations of GT take precedence.
+
+4.  RoboJackets recognizes and understands that Georgia Tech assumes no legal liability for the actions of the organization.
 
 Written notification to all members must be made by mail or email, at least two (2) weeks in advance of any proposed change in the constitution. Amendments are subject to the approval by the Student Government and Student Activities Committee. The procedure for amending the constitution is as follows: The amendment will be read in a general meeting open to all club members. All club officers must be in attendance. Once the amendment is read to all members in attendance, an open discussion will ensue. The club president will moderate the discussion. Once all discussion is complete, the members in attendance will vote on whether to accept or deny the amendment.
 
