@@ -116,3 +116,5 @@ Written notification to all members must be made by mail or email, at least two 
 Acceptance of any amendment to the constitution will require vote with quorum established. A quorum is established by greater than half of the voting membership.
 
 Amendments are subject to the approval of the Student Government Association and the Student Activities Committee.
+
+RoboJackets is affiliated with RoboJackets, Inc., a Georgia non-profit corporation.
