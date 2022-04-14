@@ -1,15 +1,11 @@
 **Constitution for the RoboJackets at Georgia Tech**
 
-Created 1999
-Revised 03/28/2018
+Created 1999  
+Revised 04/08/2021
 
-<span> ****</span>The RoboJackets competitive robotics club will be one that designs robots with the intent of taking part in various national and international competitions. The purpose of the club is to promote robotics in the Georgia Tech community and to help students learn valuable skills associated with building robots. As a byproduct of taking part in competitions, Georgia Tech will benefit by becoming more familiar to the people in the robotics community.
-
-****
+The RoboJackets competitive robotics club will be one that designs robots with the intent of taking part in various national and international competitions. The purpose of the club is to promote robotics in the Georgia Tech community and to help students learn valuable skills associated with building robots. As a byproduct of taking part in competitions, Georgia Tech will benefit by becoming more familiar to the people in the robotics community.
 
 This organization will be known as RoboJackets at Georgia Tech, hereafter referred to as RoboJackets.
-
-****
 
 The purpose of the RoboJackets is to:
 
@@ -23,8 +19,6 @@ The purpose of the RoboJackets is to:
 
 5.  Add value to the surrounding community by way of community projects involving robotics.
 
-****
-
 1.  Eligibility for membership in RoboJackets is extended to all Georgia Tech students who meet eligibility requirements for participation in extracurricular activities as stated in the GT Catalog and SGA policies. Only active Georgia Tech student members in good academic standing can vote or hold office.
 
 2.  Active membership is defined as attending at least one (1) general meeting per semester and attending at least fifty (50) percent of the meetings of one (1) or more project teams.
@@ -35,15 +29,13 @@ The purpose of the RoboJackets is to:
 
 5.  Membership will take effect when an interested person pays dues for the semester.
 
-****
+**Section .** According to the GT Catalog, students can only run for, and hold office if they are in good standing with the Institute (academically and non-academically). RoboJackets will further require Officers and officer candidates to be students that have been members of the organization for at least one (1) semester of active membership.
 
-<span> **Section .** </span>According to the GT Catalog, students can only run for, and hold office if they are in good standing with the Institute (academically and non-academically). RoboJackets will further require Officers and officer candidates to be students that have been members of the organization for at least one (1) semester of active membership.
-
-<span> **Section .** </span>An Executive Board comprised of Officers will govern the activities of the organization, and the specific duties of the Officers will be as follows:
+**Section .** An Executive Board comprised of Officers will govern the activities of the organization, and the specific duties of the Officers will be as follows:
 
 1.  President: The President will have general supervision of the affairs of the RoboJackets and will preside at meetings. The President will approve projects for the organization to be involved in, actively seek projects for the organization, and act as a liaison for companies that wish to support the club.
 
-2.  Vice President: The Vice President will be the junior executive officer and will act on the behalf of the President in the event of his/her absence. The Vice President will work with project managers to ensure projects are executed as planned, and assist in presidential duties.
+2.  Vice President: The Vice President will be the junior executive officer and will act on the behalf of the President in the event of their absence. The Vice President will work with project managers to ensure projects are executed as planned, and assist in presidential duties.
 
 3.  Treasurer: The Treasurer will be responsible for keeping accurate records of the incoming and outgoing expenses from the organization’s accounts, and for creating financial reports that detail the organization’s budget for active and potential sponsors. The treasurer will have final authority to approve all orders.
 
@@ -56,8 +48,6 @@ The purpose of the RoboJackets is to:
 7.  Project Managers: The Project Managers will be voted on by the project team members and subject to the approval of the President. They will be responsible for organizing the organization’s members that choose to participate in their project. They will prepare budgets to be submitted to the Treasurer for their project and will meet with the aforementioned officers of the organization when requested.
 
 The officers of the RoboJackets shall have the power to create or destroy positions of office as is necessary to run an efficient club.
-
-****
 
 Officers will be selected whenever a position needs to be filled or a new position is created. Officer candidates must meet the requirements established in Article IV, Section 1. Elections will be conducted as follows:
 
@@ -79,9 +69,7 @@ Officers will be selected whenever a position needs to be filled or a new positi
 
 9.  If a position remains unfilled after the elections process, the President will appoint a member to the position or reassign duties to another officer.
 
-****
-
-1.  If an officer fails to maintain Institute requirements as stated in the GT Catalog and Article 4 Section 1, he or she shall resign immediately.
+1.  If an officer fails to maintain Institute requirements as stated in the GT Catalog and Article 4 Section 1, they shall resign immediately.
 
 2.  An officer can be removed from office by vote of the full membership of the club or executive board.
 
@@ -89,15 +77,13 @@ Officers will be selected whenever a position needs to be filled or a new positi
 
 4.  The meeting for the removal of an officer must be announced no less than one week in advance.
 
-5.  The officer pending removal will be allowed to speak to defend his or her actions.
+5.  The officer pending removal will be allowed to speak to defend their actions.
 
 6.  The remaining leadership must make a good faith effort to contact the officer and schedule the meeting so that they can attend if desired.
 
-7.  If an officer is removed, his or her removal is immediate. Upon removal, a special election will be held following the rules established for yearly elections in Article V.
+7.  If an officer is removed, their removal is immediate. Upon removal, a special election will be held following the rules established for yearly elections in Article V.
 
 8.  If the highest level officer(s) are removed, the next highest officer will assume interim responsbility until the special election is concluded.
-
-****
 
 Committees may be created as necessary by the President for specific events and projects not to last longer than the current officer term.
 
@@ -107,11 +93,9 @@ Committees may be created as necessary by the President for specific events and 
 
 3.  Any number of members may be on a committee.
 
-****
-
 1.  A full-time salaried GT faculty or staff member will serve as Advisor to the organization.
 
-2.  Nominations for Advisor will take place within the Executive Board. An Advisor will be chosen within two weeks of a vacancy. The Executive Board will choose the Advisor by a majority vote and invite him/her to serve as Advisor for the next academic year.
+2.  Nominations for Advisor will take place within the Executive Board. An Advisor will be chosen within two weeks of a vacancy. The Executive Board will choose the Advisor by a majority vote and invite them to serve as Advisor for the next academic year.
 
 3.  During officer elections, the organization will vote on whether to continue the Advisor appointment or not. The vote must be a majority of those voting in order to retain the Advisor for the next academic year.
 
@@ -121,20 +105,16 @@ Committees may be created as necessary by the President for specific events and 
 
 6.  If an Advisor steps down, is removed, or is not re-appointed, the Executive Board will follow the process stated in Article VIII Section B.
 
-****
-
 Dues shall be collected by the President, Vice President, Treasurer, and Project Managers. Late dues will be accepted at the discretion of the aforementioned officers. The Treasurer will set the due date for each semester’s dues. The Treasurer may entitle delegates to collect dues if the demand requires it. Dues will be set according to our bylaws. Members over the summer semester must have paid for the previous or upcoming year.
-
-****
 
 All officer/business meetings shall be governed by the procedure contained in Robert’s Rules of Order.
 
 Robert’s Rules of Order will be used in instances not covered in this constitution.
-
-****
 
 Written notification to all members must be made by mail or email, at least two (2) weeks in advance of any proposed change in the constitution. Amendments are subject to the approval by the Student Government and Student Activities Committee. The procedure for amending the constitution is as follows: The amendment will be read in a general meeting open to all club members. All club officers must be in attendance. Once the amendment is read to all members in attendance, an open discussion will ensue. The club president will moderate the discussion. Once all discussion is complete, the members in attendance will vote on whether to accept or deny the amendment.
 
 Acceptance of any amendment to the constitution will require vote with quorum established. A quorum is established by greater than half of the voting membership.
 
 Amendments are subject to the approval of the Student Government Association and the Student Activities Committee.
+
+RoboJackets is affiliated with RoboJackets, Inc., a Georgia non-profit corporation.
